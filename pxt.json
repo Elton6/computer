@@ -3,10 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "edge-connector": "*",
-        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
-        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "edge-connector": "*"
     },
     "files": [
         "main.blocks",

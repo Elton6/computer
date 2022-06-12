@@ -1,5 +1,4 @@
 //% color="#fc8c03" weight=100
-//% block="pizza" color=#fc8c03 icon="\uf0c7"
 namespace pizza {
     
     
